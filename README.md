@@ -165,6 +165,8 @@ private ObjectNoteEntity lastNote;
 - Видос про графану (graphana) - https://youtu.be/quxPM1kt_38?si=r6GaRTK-dJKPr8O9
 - Видос про метрики и micrometer - https://www.youtube.com/watch?v=ZjVk5p99DAQ
 - Roadmap по devOps - https://youtu.be/QPFJGZ0nDCY?si=Aj_E3pfDw8lb5EJ2
+- Использование makefile - https://ru.hexlet.io/blog/posts/version-managers
+- Про кубернетис k8s на котиках - https://sqadays.com/ru/talk/132829
 
 **В контейнере для докера**
 psql -h localhost -U postgres
